@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>like.png</file>
+  </qresource>
+  <qresource prefix="Icons">
+    <file>iconCadastro/add.png</file>
+    <file>iconCadastro/buscar.png</file>
+    <file>iconCadastro/delet.png</file>
+    <file>iconCadastro/refresh.png</file>
+  </qresource>
+</RCC>
